@@ -1,0 +1,24 @@
+  6>   programa: reservada
+  6>         um: identificador
+  7>    inteiro: reservada
+  7>          a: identificador
+  7>          b: identificador
+  8>     inicio: reservada
+ 10>       leia: reservada
+ 10>          a: identificador
+ 11>       leia: reservada
+ 11>          b: identificador
+ 12>   enquanto: reservada
+ 12>          a: identificador
+ 12>          <: menor
+ 12>          b: identificador
+ 12>       faca: reservada
+ 13>    escreva: reservada
+ 13>          a: identificador
+ 14>          a: identificador
+ 14>         <-: atribuicao
+ 14>          a: identificador
+ 14>          +: soma
+ 14>          1: numero
+ 15>fimenquanto: reservada
+ 16>fimprograma: reservada

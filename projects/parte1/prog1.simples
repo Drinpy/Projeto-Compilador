@@ -1,0 +1,16 @@
+/*-------------------------------------------
+    
+    programa exemplo em liguagem simples
+
+---------------------------------------------*/
+programa um
+    inteiro a b
+inicio
+    //Declaracao variaveis
+    leia a  //Leitura de a
+    leia b  //Leitura de b
+    enquanto a < b faca
+        escreva a
+        a <- a + 1
+    fimenquanto
+fimprograma
