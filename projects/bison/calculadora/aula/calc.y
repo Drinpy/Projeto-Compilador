@@ -10,8 +10,7 @@
 %start comando
 
 %%
-comando : expr ENTER;
-    | ;
+comando : expr ENTER {printf("Resultado: %d\n", $1);}
 
 expr : NUM
     | expr MAIS expr
@@ -21,7 +20,6 @@ expr : NUM
 
 void yyerror (char *s){
     printf("ERROR: %s\n\n", s);
-    exit(10);
 }
 
 int mains(void) {
