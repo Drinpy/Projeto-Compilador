@@ -1,0 +1,13 @@
+INPP - inicia programa principal
+AMEM - aloca memória
+LEIA - ler entrada
+ARZG - armazena	
+CRVG - carrega valor global	
+CMMA - compara-se maior
+DSVF - desvio se falso
+CMME - compara-se menor	
+ESCR - escreva
+DSVS - desvia sempre
+NADA - nada
+DMEM - desaloca memória
+FIMP - fim programa principal
