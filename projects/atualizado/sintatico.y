@@ -154,6 +154,7 @@ repeticao
             int rot1 = desempilha();
             int rot2 = desempilha();
             fprintf(yyout,"\tDSVS\tL%d\nL%d\tNADA\n", rot2, rot1); 
+            fprintf(yyout,"L%d\tNADA\n", rot1);
         }
     ;
 
